@@ -1,0 +1,1 @@
+var game = new SeteErros('game-canvas', 'acerto.svg');
